@@ -35,6 +35,8 @@ Links contenidos: Accesibilidad, Rendimiento y SEO.
 
 <https://megatags.co/> (edición)
 
+## 5. Wireframes
+
 <https://blog.ida.cl/diseno/buenas-practicas-diseno-wireframes/>
 
 <https://uxplanet.org/getting-started-with-wireframing-8bf5eedd2d30>
