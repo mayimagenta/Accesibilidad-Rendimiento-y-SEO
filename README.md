@@ -1,7 +1,7 @@
 # Accesibilidad-Rendimiento-y-SEO
 Links contenidos: Accesibilidad, Rendimiento y SEO.
 
-## 1. Proto-personas✅
+## 1. Proto-personas ✅
 
 <https://blog.ida.cl/experiencia-de-usuario/que-son-las-proto-personas/>
 
