@@ -1,7 +1,7 @@
 # Accesibilidad-Rendimiento-y-SEO
 Links contenidos: Accesibilidad, Rendimiento y SEO.
 
-## 1. Proto-personas
+## 1. Proto-personas✅
 
 <https://blog.ida.cl/experiencia-de-usuario/que-son-las-proto-personas/>
 
@@ -13,7 +13,7 @@ Links contenidos: Accesibilidad, Rendimiento y SEO.
 
 <https://www.nngroup.com/articles/personas-archetypes/> (arquetipos)
 
-## 2. Benchmarking & Modboards
+## 2. Benchmarking & Modboards ✅
 
 <https://www.hiberus.com/crecemos-contigo/que-es-ux-benchmarking/>
 
