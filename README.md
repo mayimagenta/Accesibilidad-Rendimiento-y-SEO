@@ -19,7 +19,7 @@ Links contenidos: Accesibilidad, Rendimiento y SEO.
 
 <https://www.freepik.com/blog/es/mood-boards-consejos-trucos-crearlos/>
 
-## 3. Accesibilidad
+## 3. Accesibilidad ✅
 
 <https://developer.chrome.com/docs/lighthouse/overview/>
 
@@ -29,13 +29,13 @@ Links contenidos: Accesibilidad, Rendimiento y SEO.
 
 <https://webaim.org/resources/contrastchecker/>
 
-## 4. Metadatos
+## 4. Metadatos ✅
 
 <https://www.heymeta.com/> (revisión)
 
 <https://megatags.co/> (edición)
 
-## 5. Wireframes
+## 5. Wireframes ✅
 
 <https://blog.ida.cl/diseno/buenas-practicas-diseno-wireframes/>
 
